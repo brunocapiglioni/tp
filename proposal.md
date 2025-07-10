@@ -13,8 +13,7 @@
 ### Descripción
 Un software pensado para los alumnos de la facultad, para que puedan registrarse como estudiantes de una cierta carrera, compartir material con otros compañeros, armar grupos de estudio y resolver dudas. Además que cada usuario pueda crear carpetas donde agrupar el contenido, y un calendario, para organizar las fechas de parciales, tp, etc.
 ### Modelo
-![dsw drawio](<img width="3152" height="3344" alt="image" src="https://github.com/user-attachments/assets/52cffa92-2bb5-4881-9684-7bb21bfb0a9d" />
-)
+![dsw drawio](<"C:\Users\pc\Downloads\dsw.drawio (1).png">)
 
 https://app.diagrams.net/#G1PR08dfqftK6npTTpZ6HmEGqlNiXfCBbF#%7B%22pageId%22%3A%228YNqjsFgYrRHH0SMi45v%22%7D
 ## Alcance Funcional 
